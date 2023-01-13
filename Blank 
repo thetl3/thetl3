@@ -1,0 +1,24 @@
+1 Css Cascading Style Sheets 
+
+Separation of Concerns 
+HTML -> content layer 
+CSS -> presentation layer 
+
+HTML -> nouns 
+CSS -> adjectives 
+
+HTML -> if webpage is a house htmlis the wooden frames and drywall 
+CSS -> paint and wallpaper or roofing and siding 
+
+HTML -> skeleton 
+CSS  -> skin, hair, nails, 
+
+
+
+
+
+1 CSS RULE- targets something on the page 
+
+p { }
+
+three components of a HTML attribute are id, value and assignment operator 
